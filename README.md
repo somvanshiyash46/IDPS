@@ -233,33 +233,10 @@ Example Confusion Matrix:
 * Early stopping & learning rate scheduling
 
 ---
-
-## 🎓 Academic & Practical Use Cases
-
-* Final-year engineering project
-* Research on adversarial ML security
-* SOC Analyst skill demonstration
-* AI-based Network Security Systems
-* IDS robustness analysis
-
----
-
-## 🚀 Future Enhancements
-
-* CNN + LSTM hybrid model (temporal traffic analysis)
-* Multi-class attack classification
-* PGD / BIM adversarial attacks
-* Explainable AI (Grad-CAM)
-* Real-time traffic simulation
-* SIEM / SOC integration
-
----
-
-
 ## 📌 Author
 
 **Yash Somvanshi**
-Cybersecurity | AI | IDS | Adversarial Machine Learning
+Cybersecurity Engineer | AI | IDS | SOC Analyst
 
 GitHub: [https://github.com/somvanshiyash46](https://github.com/somvanshiyash46)
 
